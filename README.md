@@ -1,13 +1,20 @@
 # Olá, sou Crysthina Rodrigues! Salut, je suis Crysthina Rodrigues!
 
 Tenho 34 anos, mãe de menino e estou em um processo de trasição de carreira.
+
 Atualmente trabalho em uma aréa totalmente diferente da tecnologia 😪
+
 Estou estudando Front-End nas intituições **Alura** e **DIO**.
+
 Programando a minha própria história! 💻🖱
 
+
 J'ai 34 ans, maman d'un garçon et je suis en transition de carrière.
+
 Actuellement je travaille dans un autre domaine, totalement différent de technologie 😪
+
 J'étudie Front-End chez **Alura** e **DIO**.
+
 Programmer ma propre histoire ! 💻🖱
 
 
