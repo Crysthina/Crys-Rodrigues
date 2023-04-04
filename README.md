@@ -1,7 +1,7 @@
 # Olá, sou Crysthina Rodrigues! Salut, je suis Crysthina Rodrigues!
 
 >Tenho 34 anos, mãe de menino e um gatinho, em trasição de carreira.<br>
->Estou estudando Front-End nas intituições **Alura** e **DIO**.<br>
+>Estudante Front-End nas intituições **Alura** e **DIO**.<br>
 >Programando a minha própria história! 💻🖱
 
 <br>
@@ -16,7 +16,7 @@
 
 >## Estou aprendendo / J'apprends:
 >
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> <img >src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/> <img >src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/> <img >src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
+><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
 
 <br>
 <br>
