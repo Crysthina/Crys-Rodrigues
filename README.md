@@ -11,10 +11,11 @@
 >J'étudie Front-End chez **Alura** e **DIO**.<br>
 >Programmer ma propre histoire ! 💻🖱<br>
 
+![alt text](./images/top.svg)
 <br>
 <br>
 
->## Estou aprendendo / J'apprends:
+>## 🌱 Estou aprendendo / J'apprends:
 >
 ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
 
